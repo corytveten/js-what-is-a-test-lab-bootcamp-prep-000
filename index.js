@@ -31,3 +31,9 @@ function doSomething(thing) {
 }
 
 doSomething("anything")
+
+function add(x, y) {
+  return x + y
+}
+
+add(1, 2)
